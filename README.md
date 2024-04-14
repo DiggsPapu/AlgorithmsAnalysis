@@ -11,3 +11,11 @@ La idea es que le pase un dígito y resuelva las combinaciones para este dígito
 92984744
 
 ## Problema 2
+
+## Problema 3
+Siempre contendra el objeto con mayor relacion de costo por peso debido a que siempre sera el primer objeto en ingresar en la bolsa. Esto debido a que este objeto tiene la mejor relacion de ganancia por cada unidad de peso (Recordando el knapsack problem va jalando los objetos en virtud de cual tiene la maxima relacion v/w.) entonces siempre jalara ese objeto porque tiene la mejor y en el caso de no jalar ese objeto no se podria maximizar la ganancia G de manera que se obtendria una ganancia T < G.
+## Problema 4
+
+## Problema 5
+
+## Problema 6
