@@ -8,8 +8,8 @@ Se puede obtener que la subestructura óptima para una combinación de longitud 
 La idea es que le pase un dígito y resuelva las combinaciones para este dígito, de manera que inserte este dígito y después desarrolle todos los caminos adyacentes para este dígito. Sin embargo, todo lo que está después de este dígito podría ser otro camino para otro dígito, de manera que se obtiene un problema traslapado, por ejemplo "5252525252" para el dígito 5 puede también ser para 2 dado "2252525252", repitiendo el procedimiento y obteniendo un problema traslapado.
 * Encuentre el tiempo de complejidad para este algoritmo.
 * Usando su programa, encuentre las combinaciones totales posibles para n = 10.
-92984744
-
+1806282
+El github gist es:https://gist.github.com/DiggsPapu/bcc1bf76718af7ce999a4e8bca77f714
 ## Problema 2
 
 ## Problema 3
